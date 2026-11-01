@@ -144,7 +144,7 @@ Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. 
 
 [RFM Analysis, Country view]
 
-<img width="699" height="437" alt="5" src="https://github.com/user-attachments/assets/cfc5d82d-8fc4-4577-b3b2-0d4e7d43da5d" />
+<img width="699" height="437" alt="5" src="https://github.com/Rkamal0806/IKEA-Customer-Analytics-RFM-Segmentation/blob/main/Screenshots/Country.png?raw=true" />
 
 
 ---
