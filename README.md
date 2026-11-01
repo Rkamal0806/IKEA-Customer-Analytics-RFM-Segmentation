@@ -129,7 +129,7 @@ Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. 
 
 [Business Overview, Revenue view]
 
-<img width="703" height="436" alt="2" src="https://github.com/user-attachments/assets/7e6c8626-86cc-4092-ad8d-967fca19d526" />
+<img width="703" height="436" alt="2" src="https://github.com/Rkamal0806/IKEA-Customer-Analytics-RFM-Segmentation/blob/main/Screenshots/Revenue.png?raw=true" />
 
 [Business Overview, Customer view]
 
