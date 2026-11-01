@@ -123,7 +123,7 @@ Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. 
 **Page 1: Home.** Project title, navigation to the two report pages, and a glossary defining Recency, Frequency, Monetary, and Churned %.
 
 [Home and navigation]
-<img width="768" height="430" alt="1" src="" />
+<img width="768" height="430" alt="1" src="https://github.com/Rkamal0806/IKEA-Customer-Analytics-RFM-Segmentation/blob/main/Screenshots/Homepage.png?raw=true" />
 
 **Page 2: Business Overview.** KPI cards for total customers, total revenue, churned %, and average customer value, with a **Revenue / Customer** toggle, segment breakdowns, and month, quarter, and year trends. Filterable by month, quarter, year, country, segment, and churn status.
 
@@ -133,7 +133,7 @@ Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. 
 
 [Business Overview, Customer view]
 
-<img width="700" height="437" alt="3" src="https://github.com/user-attachments/assets/bd9a21cc-5b55-4592-b9d2-94cca5bf8328" />
+<img width="700" height="437" alt="3" src="" />
 
 **Page 3: RFM Analysis.** A **Segment / Country** toggle. The segment view shows a performance summary table (customers, revenue, average R, F, M scores) and average customer value by segment. The country view shows the same table by country and the top 5 countries by average customer value. Both views trend churned % by month, quarter, and year.
 
