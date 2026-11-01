@@ -133,7 +133,7 @@ Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. 
 
 [Business Overview, Customer view]
 
-<img width="700" height="437" alt="3" src="" />
+<img width="700" height="437" alt="3" src="https://github.com/Rkamal0806/IKEA-Customer-Analytics-RFM-Segmentation/blob/main/Screenshots/Customer.png?raw=true" />
 
 **Page 3: RFM Analysis.** A **Segment / Country** toggle. The segment view shows a performance summary table (customers, revenue, average R, F, M scores) and average customer value by segment. The country view shows the same table by country and the top 5 countries by average customer value. Both views trend churned % by month, quarter, and year.
 
