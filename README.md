@@ -123,7 +123,7 @@ Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. 
 **Page 1: Home.** Project title, navigation to the two report pages, and a glossary defining Recency, Frequency, Monetary, and Churned %.
 
 [Home and navigation]
-<img width="768" height="430" alt="1" src="C:\Users\rashm\OneDrive\Pictures\Screenshots\Homepage.png" />
+<img width="768" height="430" alt="1" src="" />
 
 **Page 2: Business Overview.** KPI cards for total customers, total revenue, churned %, and average customer value, with a **Revenue / Customer** toggle, segment breakdowns, and month, quarter, and year trends. Filterable by month, quarter, year, country, segment, and churn status.
 
